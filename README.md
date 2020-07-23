@@ -1,6 +1,6 @@
 # Awesome Flutter
 
-- A list of Flutter collection. 
+- A list of awesome Flutter collection. 
 
 ![Awesome Flutter](assets/banner.png)
 
@@ -12,7 +12,7 @@
 
 ### Tab View
 
-- [Coming soon...]() 
+Coming soon...
 
 ### Find me on:
 
